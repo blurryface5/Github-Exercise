@@ -1,4 +1,10 @@
+Foods:
 chole bhature
 napotalean pizza
 aloo paratha
+
+Movies:
+Shawshank Redemption
+3 idiots
+ToyStory
 
